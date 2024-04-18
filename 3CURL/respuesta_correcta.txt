@@ -44,7 +44,7 @@
 
 	</fieldset>
 
-	<input type='hidden' name='user_token' value='b67ace0faa8593df7aefdbe669575a05' />
+	<input type='hidden' name='user_token' value='c05db74db3f9884cef4f0d89432c7486' />
 
 	</form>
 
